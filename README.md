@@ -92,3 +92,4 @@ This project is a Next.js application that allows users to create and manage cha
 * Ensure Ollama is running before starting the application.
 * Model performance may vary depending on your hardware.
 * This project is intended for experimental purposes.
+
